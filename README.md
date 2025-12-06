@@ -1,16 +1,25 @@
-## Hi there 👋
+# Bienvenido a Mi Perfil de GitHub
 
-<!--
-**ogonzalezc714/ogonzalezc714** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Acerca de Mí
+Hola, soy ogonzalezc714, especialista en Arquitectura de Integraciones en SPS. Me apasiona la consultoría en Oracle Middleare y la arquitectura de integración.
 
-Here are some ideas to get you started:
+## Mi Rol en SPS
+Consultor en Arquitectura de Integraciones
+Breve descripción de tu rol y responsabilidades en la empresa.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Habilidades y Expertise
+Java
+Spring Boot
+Oracle Soa Suite
+Oracle Middleware
+Arquitectura de Integraciones
+SOA
+Microservicios
+Consultoría
+
+## Cómo Colaboro
+Descripción de cómo te gusta trabajar en proyectos y cómo los demás pueden colaborar contigo.
+
+## Contacto
+Correo Electrónico: ogonzalezc@spsolutions.com.mx]
+LinkedIn: N/A
