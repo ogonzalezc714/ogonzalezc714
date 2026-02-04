@@ -18,8 +18,8 @@ Breve descripción de tu rol y responsabilidades en la empresa.
 * Consultoría
 
 ## Cómo Colaboro
-Descripción de cómo te gusta trabajar en proyectos y cómo los demás pueden colaborar contigo.
+Me gusta trabajar con equipos que asuman el ownership en los proyectos y me gusta siempre aprender.
 
 ## Contacto
-Correo Electrónico: ogonzalezc@spsolutions.com.mx]
-LinkedIn: N/A
+* Correo Electrónico: ogonzalezc@spsolutions.com.mx]
+* LinkedIn: N/A
