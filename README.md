@@ -8,14 +8,14 @@ Consultor en Arquitectura de Integraciones
 Breve descripción de tu rol y responsabilidades en la empresa.
 
 ## Habilidades y Expertise
-Java
-Spring Boot
-Oracle Soa Suite
-Oracle Middleware
-Arquitectura de Integraciones
-SOA
-Microservicios
-Consultoría
+* Java
+* Spring Boot
+* Oracle Soa Suite
+* Oracle Middleware
+* Arquitectura de Integraciones
+* SOA
+* Microservicios
+* Consultoría
 
 ## Cómo Colaboro
 Descripción de cómo te gusta trabajar en proyectos y cómo los demás pueden colaborar contigo.
