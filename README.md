@@ -1,7 +1,7 @@
 # Bienvenido a Mi Perfil de GitHub
 
 ## Acerca de Mí
-Hola, soy ogonzalezc714, especialista en Arquitectura de Integraciones en SPS. Me apasiona la consultoría en Oracle Middleare y la arquitectura de integración.
+Hola, soy ogonzalezc714, especialista en Arquitectura de Integraciones en SPS. Me gusta la consultoría en Oracle Middleare y la arquitectura de integración.
 
 ## Mi Rol en SPS
 Consultor en Arquitectura de Integraciones, actualmente asignado en Bancoppel.
